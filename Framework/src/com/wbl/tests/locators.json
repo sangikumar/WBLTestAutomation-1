@@ -1,0 +1,13 @@
+{
+  "portal": {
+    "header.logo": "",
+    "header.social": "",
+    "home": {
+    },
+    "login": {
+      "username": "",
+      "passsword": "",
+      "submit": ""
+    }
+  }
+}
